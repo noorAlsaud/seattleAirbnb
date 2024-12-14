@@ -35,9 +35,14 @@ This project analyzes Airbnb listings in Seattle to answer specific questions ab
 ---
 
 ## Summary of Results
-1. **Seasonal Trends**: Availability is highest in fall, while the busiest season is summer.
+1. **Seasonal Trends**: Availability is highest in fall, while the busiest season is winter.
+![seasons_airbnb](https://github.com/user-attachments/assets/c1465315-766f-4f90-b607-22c8f9004424)
+
 2. **Pricing Factors**: The most significant factors influencing prices include accommodates, bedrooms, and response time.
+![pricingFactor](https://github.com/user-attachments/assets/54a42481-ad37-4c6e-95c9-badaf1476a48)
+
 3. **Booking Influences**: Price, accommodates, and the number of bedrooms strongly affect a guest's decision to book. Surprisingly, listings without a host profile picture have a higher booking rate.
+![ListingsFactor](https://github.com/user-attachments/assets/9c46ed95-02a6-467a-8be2-9d14673cd552)
 
 ---
 
