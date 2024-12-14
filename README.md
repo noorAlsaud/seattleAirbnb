@@ -49,7 +49,7 @@ This project analyzes Airbnb listings in Seattle to answer specific questions ab
 ## How to Run the Code
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/your-username/airbnb-seattle-analysis.git
+   git clone https://github.com/noorAlsaud/seattleAirbnb.git
    ```
 2. **Install required Python libraries** using `pip`:
    ```bash
